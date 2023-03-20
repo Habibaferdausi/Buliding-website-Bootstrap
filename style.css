@@ -31,3 +31,6 @@
 .carousel-control-next-icon {
   background-color: rgba(139, 30, 52, 0.385);
 }
+.client-image {
+  width: 160px;
+}
