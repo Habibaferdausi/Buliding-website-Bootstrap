@@ -8741,11 +8741,11 @@ fieldset:disabled .btn {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #0c2e8a !important;
+  color: rgb(219, 30, 67) !important;
 }
 
 .text-secondary {
-  color: #50d8af !important;
+  color: #d8508b !important;
 }
 
 .text-success {
