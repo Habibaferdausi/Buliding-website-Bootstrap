@@ -1,18 +1,21 @@
 .banner-img1 {
-  background-image: url("image/carousel/2.jpg");
+  background-image: url("image/carousel/1.jpg");
   height: 100vh;
+  background-size: cover;
 }
 .banner-img2 {
-  background-image: url("image/carousel/3.jpg");
+  background-image: url("image/carousel/2.jpg");
   height: 100vh;
+  background-size: cover;
 }
 .banner-img3 {
-  background-image: url("image/carousel/5.jpg");
+  background-image: url("image/carousel/3.jpg");
   height: 100vh;
+  background-size: cover;
 }
 .carousel-control-prev-icon {
-  background-color: rgba(141, 141, 147, 0.385);
+  background-color: rgba(205, 22, 68, 0.385);
 }
 .carousel-control-next-icon {
-  background-color: rgba(79, 79, 82, 0.385);
+  background-color: rgba(139, 30, 52, 0.385);
 }
