@@ -1,15 +1,27 @@
 .banner-img1 {
-  background-image: url("image/carousel/1.jpg");
+  background-image: linear-gradient(
+      rgba(142, 140, 140, 0.7),
+      rgba(134, 131, 131, 0.7)
+    ),
+    url("image/carousel/1.jpg");
   height: 100vh;
   background-size: cover;
 }
 .banner-img2 {
-  background-image: url("image/carousel/2.jpg");
+  background-image: linear-gradient(
+      rgba(142, 140, 140, 0.7),
+      rgba(134, 131, 131, 0.7)
+    ),
+    url("image/carousel/2.jpg");
   height: 100vh;
   background-size: cover;
 }
 .banner-img3 {
-  background-image: url("image/carousel/3.jpg");
+  background-image: linear-gradient(
+      rgba(142, 140, 140, 0.7),
+      rgba(134, 131, 131, 0.7)
+    ),
+    url("image/carousel/3.jpg");
   height: 100vh;
   background-size: cover;
 }
