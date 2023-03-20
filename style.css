@@ -1,0 +1,18 @@
+.banner-img1 {
+  background-image: url("image/carousel/2.jpg");
+  height: 100vh;
+}
+.banner-img2 {
+  background-image: url("image/carousel/3.jpg");
+  height: 100vh;
+}
+.banner-img3 {
+  background-image: url("image/carousel/5.jpg");
+  height: 100vh;
+}
+.carousel-control-prev-icon {
+  background-color: rgba(141, 141, 147, 0.385);
+}
+.carousel-control-next-icon {
+  background-color: rgba(79, 79, 82, 0.385);
+}
