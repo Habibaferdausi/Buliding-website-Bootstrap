@@ -3141,11 +3141,11 @@ fieldset:disabled .btn {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #0c2e8a;
-  --bs-btn-border-color: #0c2e8a;
+  --bs-btn-bg: #d7630b !important;
+  --bs-btn-border-color: #ca840a;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #0b5ed7;
-  --bs-btn-hover-border-color: #0a58ca;
+  --bs-btn-hover-bg: #5d001e;
+  --bs-btn-hover-border-color: #ee4c7c;
   --bs-btn-focus-shadow-rgb: 49, 132, 253;
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: #0a58ca;
@@ -3158,8 +3158,8 @@ fieldset:disabled .btn {
 
 .btn-secondary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #50d8af;
-  --bs-btn-border-color: #50d8af;
+  --bs-btn-bg: #ee4c7c;
+  --bs-btn-border-color: #5d001e;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #5c636a;
   --bs-btn-hover-border-color: #565e64;
